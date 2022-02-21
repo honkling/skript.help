@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    overflow-y: auto;
+}
+
+blockquote {
+    margin: 0;
+    padding-left: 0.5rem;
+    border-left: 0.4em #aaa solid;
+	border-radius: 0.3em;
+}
